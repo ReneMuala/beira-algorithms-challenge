@@ -1,6 +1,6 @@
 # Beira Algorithms Challenge
 
-Este repositório contém informações sobre o desafio que **propus** durante o challenge de algoritmos da [**Oficina do Futuro**](https://oficinadofuturo.org.mz) na **Beira**.
+Este repositório contém informações sobre o desafio que propus durante o challenge de algoritmos da [**Oficina do Futuro**](https://oficinadofuturo.org.mz) na Beira.
 
 ## Problema
 
